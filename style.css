@@ -1,0 +1,106 @@
+
+  
+ 
+.btn{
+  border-radius: 15px;
+  background-color: #13eb13;
+  border: none;
+  width: 120px;
+}
+#Tom{
+  height: 40px;
+  width: 50%;
+  color:#fff;
+  background-color:black;
+}
+#HT
+{
+color:#fff!important;;
+}
+.form-check-input{
+  margin-left: 50px;
+}
+.registerform {
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  /* line-height: 1.42857143; */
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.form-control{
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  /* line-height: 1.42857143; */
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  
+}
+.jumbotron.jumbotron-register {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  padding-top: 0;
+  padding-bottom: 0;
+  position: relative;
+  margin:0;
+}
+.jumbotron.jumbotron-register a {
+  color: #fff;
+}
+.register-form {
+  background-color: #FFFFFF;
+  padding: 30px;
+  border-radius: 5px;
+  border: 2px solid #eee;
+}
+.register-form h3 {
+  color: #414141;
+}
+.jumbotron.jumbotron-register h1 { 
+  font-size:59px; 
+}
+#hello-intro h2 {
+font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 42px;
+  color: #fff;
+  text-transform: uppercase;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 4px;
+  display: inline-block;
+}
+#hello-intro h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 25px;
+  color: #b0b0b0;
+}
+#hello-intro h3 strong {
+  font-weight: 300;
+}
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-image:url(Asset.jpg);
+}
+#HG{
+color:#555;
+}
+ 
